@@ -1,0 +1,6 @@
+flask
+flask-cors
+pypdf
+Pillow
+reportlab
+gunicorn
